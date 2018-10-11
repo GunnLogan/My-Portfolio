@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+
+.landingPage{
+  height: 100%;
+  margin: 15% 15%;
+}
+
+.aboutMe{
+  height: 500px;
+  background-color: gainsboro;
+  margin-bottom: 5%;
+}
+
+.text{
+    height: 500px;
+    width: 100%;
+    background-color: firebrick;
+}
+
+.images{
+    height: 500px;
+    width: 100%;
+    background-color: peru;
+}
+
+.skills{
+    height: 500px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.studies{
+    height: 500px;
+    width: 100%;
+    background-color: peachpuff;
+}
