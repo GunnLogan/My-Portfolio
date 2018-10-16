@@ -6,5 +6,4 @@ import Cases from "./pages/cases/cases"
 import "./index.css"
 import "./stylesheet.css"
 
-
-ReactDOM.render(< App/>, document.getElementById("root"))
+ReactDOM.render(<App />, document.getElementById("root"))

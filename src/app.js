@@ -6,32 +6,14 @@ import Button from "./components/button/button"
 class App extends React.Component {
 
   render() {
-    return ( <
-      Router >
-      <
-      div >
-
-
-      <
-      Route path = "/"
-      exact component = {
-        LandingPage
-      }
-      /> <
-      Route path = "/cases/:id"
-      component = {
-        Cases
-      }
-      />
-
-      <
-      div className = "cases" >
-
-
-      <
-      /div> <
-      /div> <
-      /Router>
+    return (
+      <Router>
+        <div>
+          <Route path= "/" exact component = {LandingPage}/>
+          <Route path= "/cases/:id" component = {Cases}/>
+          <div className = "cases" ></div>
+        </div>
+      </Router>
     )
   }
 
