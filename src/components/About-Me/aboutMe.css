@@ -1,0 +1,32 @@
+.aboutMeContainer{
+  display: flex;
+  flex-direction: column;
+}
+
+.textAndImage{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.aboutMeText{
+  padding: 0% 0% 5% 5%;
+  width: 60%
+}
+
+.aboutMeText p{
+font-style: italic;
+}
+
+.imageContainer{
+  width: 40%;
+
+}
+
+.imageContainer img{
+  width: 100%;
+  height:auto;
+
+  padding-top: 50px;
+  max-width: 600px;
+}

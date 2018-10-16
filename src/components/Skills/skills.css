@@ -1,0 +1,25 @@
+.skillsContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: -2%;
+
+}
+
+ .skills, h3{
+   padding-bottom: none;
+
+ }
+
+.skillsContainer p{
+  font-size: 12px;
+}
+
+.Upcoming{
+  margin-top: -5%;
+}
+
+.Upcoming p{
+  font-size: 12px;
+  margin-top: -5%;
+}

@@ -1,0 +1,16 @@
+.studiesContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: -2%;
+
+}
+
+ .studies, h3{
+   padding-bottom: none;
+
+ }
+
+.studiesContainer p{
+  font-size: 12px;
+}
