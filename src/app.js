@@ -1,8 +1,8 @@
 import React from "react"
 import { BrowserRouter as Router, Route, Link, } from "react-router-dom"
 import LandingPage from "./pages/landing-page/landingPage"
-import CasePages from "./pages/case-pages/casePages"
-
+import Cases from "./pages/cases/cases"
+import Button from "./components/button/button"
 class App extends React.Component {
 
   render() {
@@ -10,10 +10,14 @@ class App extends React.Component {
       <Router>
         <div>
 
-         <Route path="/" exact component={LandingPage} />
-         <Route path="/case" exact component={CasePages} />
-         <Route path="/case/:id" component={CasePages} />
 
+         <Route path="/" exact component={LandingPage} />
+         <Route path="/cases/:id" component={Cases} />
+
+         <div className="cases">
+
+
+         </div>
         </div>
       </Router>
     )

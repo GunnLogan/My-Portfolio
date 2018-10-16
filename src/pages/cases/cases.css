@@ -1,0 +1,28 @@
+.casePageBox{
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  margin: 10%;
+}
+
+.imageBox{
+  width: 100%;
+}
+
+.imageBox img{
+  width: inherit;
+}
+
+.textBox{
+  display: flex;
+  justify-content: space-between;
+}
+
+.caseButton{
+  margin:auto;
+}
+
+.caseButton, a{
+  width: 90px;
+  margin:auto;
+}

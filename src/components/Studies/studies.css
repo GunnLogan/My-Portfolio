@@ -3,6 +3,9 @@
   flex-direction: row;
   justify-content: space-between;
   margin-top: -2%;
+}
+
+.studiesBox{
 
 }
 
@@ -11,6 +14,8 @@
 
  }
 
-.studiesContainer p{
-  font-size: 12px;
+.buttonBox{
+  display: flex;
+  justify-content: center;
+
 }

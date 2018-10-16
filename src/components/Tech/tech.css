@@ -11,27 +11,24 @@
   font-style: italic;
 }
 
-.allProjects{
+.allCases{
   display: flex;
   flex-direction: column;
 }
 
-.allProjects p{
-  font-size: 12px;
-
-}
-
-.projectsContainer1, .projectsContainer2, .projectsContainer3{
+.casesContainer{
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.project{
-  width: 48%;
+.case{
+  width: 30%;
+  height: 30%;
   margin-bottom: 2%;
 }
 
-.allProjects img{
+.case img{
   width: 100%;
+
 }

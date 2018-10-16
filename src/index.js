@@ -2,8 +2,9 @@ import React from "react"
 import ReactDOM from "react-dom"
 import App from "./app"
 import LandingPage from "./pages/landing-page/landingPage"
-import CasePages from "./pages/case-pages/casePages"
+import Cases from "./pages/cases/cases"
 import "./index.css"
+import "./stylesheet.css"
 
 
 

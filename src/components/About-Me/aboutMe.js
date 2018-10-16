@@ -13,8 +13,9 @@ class AboutMe extends React.Component {
           <div className="aboutMeText">
           <div className="name"><p>Gunnlaugur Egilsson</p></div>
           <h5>FRONTEND DEVELOPER <br />+ DIGITAL CREATIVE</h5>
-          <p>Hello I´m a front end developer and a digital creative</p>
-          <button><link/></button>
+          <p>Hello I´m a front end developer, a digital creative, illustrator, designer, choreographer and retired ballet dancer.
+          </p>
+          <a href="#" class="Button">See my github</a>
           </div>
         </div>
       </div>

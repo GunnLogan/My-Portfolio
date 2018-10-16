@@ -10,7 +10,7 @@ class LandingPage extends React.Component {
 
   render() {
     return (
-      <div className="landingPage">
+      <div className="landingPageBox">
         <AboutMe />
         <Tech />
         <Skills />

@@ -1,5 +1,10 @@
 import React from "react"
 import "./tech.css"
+import {Link} from "react-router-dom"
+import "./tech.css"
+
+const casesJson = require("../../cases.json")
+
 
 class Tech extends React.Component {
 
@@ -13,24 +18,22 @@ class Tech extends React.Component {
           <p>480 coding hours, 50+ individual tasks, HTML5, CSS, SASS
           Flexbox, Javascript, ES6, JSX, React, Node.js, Mongo DB,
           API;s, 6 sprints with demos together with companies like
-          Volumental, Bonnier, Comprend, Svenska Spel @ technigo
+          Volumental, Bonnier, Comprend, Svenska Spel @ technigo.
           Exploring generative art</p>
         </div>
-        <div className="allProjects">
-          <div className="projectsContainer1">
-            <div className="project"><p>hello</p><img src="/images/bauerVolumental.png" /></div>
-            <div className="project"><p>hello</p><img src="/images/bauerVolumental.png" /></div>
-          </div>
-          <div className="projectsContainer2">
-            <div className="project"><p>One-pager in HTML and CSS3 using flexbox. Client Volumental</p><img src="/images/bauerVolumental.png" /></div>
-            <div className="project"><p>Space news site built with Google News API. Client Bonnier News</p><img src="/images/bauerVolumental.png" /></div>
-          </div>
-          <div className="projectsContainer3">
-            <div className="project"><p>hello</p><img src="/images/bauerVolumental.png" /></div>
-            <div className="project"><p>hello</p><img src="/images/bauerVolumental.png" /></div>
+        <div className="allCases">
+          <div className="casesContainer">
+            {casesJson.cases.map((item) =>{
+              return (<div className="case">
+                <Link to={`/cases/${item.id}`}><img src={item.image} /></Link><p>{item.description}</p>
+              </div>)
+            })}
+
           </div>
         </div>
       </div>
+
+
     )
   }
 
