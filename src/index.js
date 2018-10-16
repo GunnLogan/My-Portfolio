@@ -7,5 +7,4 @@ import "./index.css"
 import "./stylesheet.css"
 
 
-
 ReactDOM.render(< App/>, document.getElementById("root"))

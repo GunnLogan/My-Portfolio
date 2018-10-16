@@ -32,9 +32,9 @@ class Cases extends React.Component {
              <p>{caseData.more}</p>
            </div>
          </div>
-
-         <a href="#" class="Button">{caseData.seeItLive}</a>
-
+         <div className="caseButton">
+           <a href="#" class="Button">{caseData.seeItLive}</a>
+         </div>
       </div>
      )
    }
