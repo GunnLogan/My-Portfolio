@@ -7,7 +7,7 @@
       "code": "HTML Javascript",
       "toolbox": "...",
       "more": "design",
-      "image": "/images/hamburger.svg"
+      "image": "./images/hamburger.svg"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "code": "React",
       "toolbox": "..",
       "more": "design",
-      "image": "/images/radioPlayer.png"
+      "image": "./images/radioPlayer.png"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "code": "...",
       "toolbox": "...",
       "more": "...",
-      "image": "/images/watch.png"
+      "image": "./images/watch.png"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "code": "...",
       "toolbox": "...",
       "more": "...",
-      "image": "/images/bauerVolumental.png"
+      "image": "./images/bauerVolumental.png"
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "code": "...",
       "toolbox": "...",
       "more": "...",
-      "image": "/images/finalfrontier.png"
+      "image": "./images/finalfrontier.png"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@
       "code": "...",
       "toolbox": "...",
       "more": "...",
-      "image": "/images/bauerVolumental.png"
+      "image": "./images/bauerVolumental.png"
     }
   ]
 }
