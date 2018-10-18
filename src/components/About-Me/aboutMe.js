@@ -8,7 +8,7 @@ class AboutMe extends React.Component {
       <div className="aboutMeContainer">
 
        <div className="textAndImage">
-         <div className="imageContainer"><img src="../images/myPhoto.jpg" /></div>
+         <div className="imageContainer"><img src="../../images/myPhoto.jpg" /></div>
 
           <div className="aboutMeText">
           <div className="name"><p>Gunnlaugur Egilsson</p></div>
