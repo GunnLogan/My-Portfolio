@@ -8,26 +8,26 @@ class Studies extends React.Component {
         <h3>Studies</h3>
         <div className="studiesContainer">
           <div className="studiesBox">
-            <h6>Frontend <br/>Development</h6>
-            <p></p>
+            <h6>Technigo</h6>
+            <p>Frontend <br/>Development<br/>Bootcamp<br/>Code Sprints</p>
           </div>
         <div className="studiesBox">
           <h6>Hyper Island</h6>
-          <p>Sprints with <br/>companies and<br/> courses in UX,<br/> branding,<br/>facilitation<br/>team developemnt<br/>and experience design</p>
+          <p>Design Lead<br/>UGL Courses<br/>UX Sprint<br/>Branding Sprint<br/>Facilitation<br/>Team Development<br/>Experience design</p>
         </div>
         <div className="studiesBox">
           <h6>Dance and theater</h6>
-          <p>10 years of <br/>Classical ballet<br/>training,<br/>modern dance<br/> and improvisation,<br/>as well as </p>
+          <p>Dance education<br/>Ballet<br/>Modern dance<br/>Improvisation<br/>Gaga Technique<br/>Acting</p>
         </div>
         </div>
         <div>
           <div className="more">
             <h6>more</h6>
-            <p>...</p>
+            <p>Internship at Norrsken House in UI, Design and Branding</p>
         </div>
       </div>
       <div className="buttonBox">
-        <a href="#" class="Button">See my linkedin</a>
+        <a href="https://www.linkedin.com/in/gunnlaugur-egilsson-23087869/" class="Button">See my linkedin</a>
       </div>
       </div>
     )

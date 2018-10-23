@@ -1,32 +1,31 @@
-.aboutMeContainer{
+.aboutMeContainer {
   display: flex;
   flex-direction: column;
+  margin-bottom: 30px;
 }
 
-.textAndImage{
+.textAndImage {
   display: flex;
   flex-direction: row;
   width: 100%;
 }
 
-.aboutMeText{
+.aboutMeText {
   padding: 0% 0% 5% 5%;
   width: 60%
 }
 
-.aboutMeText p{
-font-style: italic;
+.aboutMeText p {
+  font-style: italic;
 }
 
-.imageContainer{
+.imageContainer {
   width: 40%;
-
 }
 
-.imageContainer img{
+.imageContainer img {
   width: 100%;
-  height:auto;
-
+  height: auto;
   padding-top: 50px;
   max-width: 600px;
 }

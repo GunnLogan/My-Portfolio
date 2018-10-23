@@ -1,6 +1,7 @@
 .techContainer{
   display: flex;
   flex-direction: column;
+  margin-bottom: 30px;
 }
 
 .techHeader, h4{
