@@ -4,15 +4,6 @@
   justify-content: space-between;
 }
 
-.skills, h3 {
-  padding-bottom: none;
-}
-
 .Upcoming {
-  margin-bottom: 30px;
-}
-
-.Upcoming p {
-  font-size: 12px;
-  margin-top: -5%;
+  margin-bottom: 50px;
 }

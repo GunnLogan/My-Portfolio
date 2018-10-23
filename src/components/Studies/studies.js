@@ -21,7 +21,7 @@ class Studies extends React.Component {
         </div>
         </div>
         <div>
-          <div className="more">
+          <div className="moreStudies">
             <h6>more</h6>
             <p>Internship at Norrsken House as a Designer working on UI design and Branding</p>
         </div>

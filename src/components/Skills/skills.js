@@ -14,16 +14,16 @@ class Skills extends React.Component {
           </div>
           <div className="toolbox">
             <h6>Toolbox</h6>
-            <p>Atom<br/>Postman<br/>Javascript<br/>Adobe Photoshop
-                <br/>Adobe Illustrator<br/>Sketch<br/>Procreate</p>
+            <p>Atom<br/>Postman<br/>Javascript
+                <br/>Adobe CS<br/>Sketch<br/>Procreate</p>
           </div>
-          <div className="more">
+          <div className="moreSkills">
             <h6>More</h6>
             <p>Design Lead<br/>Branding<br/>Dramaturgi<br/>Choreography
               <br/>Hyper Island Toolbox<br/>Directing<br/>Facilitation<br/>Deviced theater</p>
           </div>
         </div>
-        <div className="Upcoming"><img src ="" />
+        <div className="Upcoming">
           <h6> Upcoming</h6>
           <p>...</p >
         </div>
