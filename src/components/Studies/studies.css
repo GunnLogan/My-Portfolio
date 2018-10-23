@@ -2,20 +2,14 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  margin-bottom: 30px;
 }
-
-.studiesBox{
-
-}
-
- .studies, h3{
-   padding-bottom: none;
-
- }
 
 .buttonBox{
   display: flex;
   justify-content: center;
 
+}
+
+.more{
+  margin-bottom: 30px;
 }

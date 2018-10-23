@@ -23,7 +23,7 @@ class Studies extends React.Component {
         <div>
           <div className="more">
             <h6>more</h6>
-            <p>Internship at Norrsken House in UI, Design and Branding</p>
+            <p>Internship at Norrsken House as a Designer working on UI design and Branding</p>
         </div>
       </div>
       <div className="buttonBox">
