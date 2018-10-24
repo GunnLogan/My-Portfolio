@@ -4,6 +4,7 @@ import AboutMe from "../../components/About-Me/aboutMe"
 import Header from "../../components/header/header"
 import Tech from "../../components/Tech/tech"
 import Skills from "../../components/Skills/skills"
+import
 import Studies from "../../components/Studies/studies"
 import Footer from "../../components/footer/footer"
 
@@ -16,6 +17,7 @@ class LandingPage extends React.Component {
         <AboutMe />
         <Tech />
         <Skills />
+        <TheaterAndDance />
         <Studies />
       </div>
       <Footer />

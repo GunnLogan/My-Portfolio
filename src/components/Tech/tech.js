@@ -17,7 +17,7 @@ class Tech extends React.Component {
             <h4>TECH</h4>
           </div>
           <div className="techText">
-            <p>480 coding hours, 50 + individual tasks, HTML5, CSS, SASS Flexbox, Javascript, ES6, JSX, React, Node.js, Mongo DB,
+            <p>480 coding hours, 35 + individual tasks, HTML5, CSS, SASS Flexbox, Javascript, ES6, JSX, React, Node.js, Mongo DB,
             API; s, 6 sprints with demos together with companies like Volumental, Bonnier, Comprend, Svenska Spel @ technigo.Exploring generative art </p>
           </div>
           <div className = "allCases">

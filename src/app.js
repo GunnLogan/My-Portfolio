@@ -11,6 +11,8 @@ class App extends React.Component {
         <div>
           <Route path= "/" exact component = {LandingPage}/>
           <Route path= "/cases/:id" component = {Cases}/>
+          <Route path= "/theAndDancases/:id" component = {theAndDanCases}/>
+
         </div>
       </Router>
     )
