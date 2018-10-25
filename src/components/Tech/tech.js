@@ -1,5 +1,4 @@
 import React from "react"
-import "./tech.css"
 import {Link} from "react-router-dom"
 import "./tech.css"
 
