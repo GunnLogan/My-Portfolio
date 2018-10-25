@@ -23,6 +23,7 @@ class Skills extends React.Component {
               <br/>Hyper Island Toolbox<br/>Directing<br/>Facilitation<br/>Deviced theater</p>
           </div>
         </div>
+
       </div>
 
 

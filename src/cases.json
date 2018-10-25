@@ -1,14 +1,14 @@
 {
   "cases": [{
-      "id": 1,
-      "header": "Volumental",
-      "description": "Landing page for Volumental using HTML and CSS",
-      "seeItLive": "See it live",
-      "code": "...",
-      "toolbox": "...",
-      "more": "...",
-      "image": "./images/bauerVolumental.png",
-      "link": "https://gunnlogan.github.io/volumental/"
+    "id": 1,
+    "header": "Career page for Comprend",
+    "description": "REACT built career pages for Comprend",
+    "seeItLive": "See it on Github",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/comprendImage.png",
+    "link": "https://gunnlogan.github.io/careerpageComprend"
     },
     {
       "id": 2,
@@ -35,8 +35,8 @@
     {
       "id": 4,
       "header": "Final Frontier",
-      "description": "News paper using Google news API's in a sprint for Bonnier News",
-      "seeItLive": "See it live",
+      "description": "HTML & CSS News paper using Google news API's in a sprint for Bonnier News",
+      "seeItLive": "See it on Github",
       "code": "...",
       "toolbox": "...",
       "more": "...",
@@ -45,14 +45,14 @@
     },
     {
       "id": 5,
-      "header": "rCareer page for Comprend",
-      "description": "Career pages for Comprend",
+      "header": "Volumental",
+      "description": "Landing page for Volumental using HTML and CSS",
       "seeItLive": "See it live",
       "code": "...",
       "toolbox": "...",
       "more": "...",
-      "image": "./images/comprendImage.png",
-      "link": "https://gunnlogan.github.io/careerpageComprend"
+      "image": "./images/bauerVolumental.png",
+      "link": "https://gunnlogan.github.io/volumental/"
     },
     {
       "id": 6,
