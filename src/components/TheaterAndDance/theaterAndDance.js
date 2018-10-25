@@ -1,6 +1,6 @@
 import React from "react"
 import {Link} from "react-router-dom"
-import "./TheaterAndDance.css"
+import "./theaterAndDance.css"
 
 
 const theAndDancasesJson = require("../../theAndDancases.json")
