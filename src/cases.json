@@ -65,5 +65,73 @@
       "image": "./images/bauerVolumental.png",
       "link": "https://gunnlogan.github.io/volumental/"
     }
-  ]
+  ],
+
+  "danceCases": [{
+    "id": 1,
+    "header": "Volumental",
+    "description": "Landing page for Volumental using HTML and CSS",
+    "seeItLive": "See it live",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/bauerVolumental.png",
+    "link": "https://gunnlogan.github.io/volumental/"
+  },
+  {
+    "id": 2,
+    "header": "Watch",
+    "description": "Stop Watch using API's",
+    "seeItLive": "See it live",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/watch.png",
+    "link": "https://gunnlogan.github.io/volumental/"
+  },
+  {
+    "id": 3,
+    "header": "Radio Player",
+    "description": "Radio player using Sveriges Radio's API's",
+    "seeItLive": "See it live",
+    "code": "React",
+    "toolbox": "..",
+    "more": "design",
+    "image":  "./images/radioPlayer.png",
+    "link": "https://gunnlogan.github.io/RadioForPortfolio/"
+  },
+  {
+    "id": 4,
+    "header": "Final Frontier",
+    "description": "News paper using Google news API's in a sprint for Bonnier News",
+    "seeItLive": "See it live",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/finalfrontier.png",
+    "link": "https://gunnlogan.github.io/volumental/"
+  },
+  {
+    "id": 5,
+    "header": "Career page for Comprend",
+    "description": "Career pages for Comprend",
+    "seeItLive": "See it live",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/finalfrontier.png",
+    "link": "https://gunnlogan.github.io/volumental/"
+  },
+  {
+    "id": 6,
+    "header": "To do App",
+    "description": "to do app",
+    "seeItLive": "See it live",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/bauerVolumental.png",
+    "link": "https://gunnlogan.github.io/volumental/"
+  }
+],
 }
