@@ -1,6 +1,7 @@
 .casePageBox{
   display: flex;
   flex-direction: column;
+  margin: 10% 10% 0% 10%;
 }
 
 .imageBox{
