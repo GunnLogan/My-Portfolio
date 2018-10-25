@@ -1,5 +1,6 @@
 import React from "react"
 import "./landingPage.css"
+
 import AboutMe from "../../components/About-Me/aboutMe"
 import Header from "../../components/header/header"
 import Tech from "../../components/Tech/tech"
@@ -13,14 +14,16 @@ class LandingPage extends React.Component {
   render() {
     return (
       <div>
-      <div className="landingPageBox">
-        <AboutMe />
-        <Tech />
-        <Skills />
-        <TheaterAndDance />
-        <Studies />
-      </div>
-      <Footer />
+        <Header />
+        <div className="landingPageBox">
+
+          <AboutMe />
+          <Tech />
+          <Skills />
+          <TheaterAndDance />
+          <Studies />
+        </div>
+        <Footer />
       </div>
 
     )

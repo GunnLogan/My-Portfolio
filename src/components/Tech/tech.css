@@ -25,12 +25,47 @@
 }
 
 .case{
-  width: 30%;
+  width: 100%;
   height: 30%;
   margin-bottom: 2%;
 }
 
 .case img{
   width: 100%;
+}
 
+/* Media queries */
+
+/* Desktop */
+@media (min-width: 900px){
+  .allCases{
+    display: flex;
+    flex-direction: row;
+  }
+  .casesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .case{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 2%;
+  }
+}
+
+/* tablet */
+@media (min-width: 600px){
+  .case{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 2%;
+  }
+
+  .casesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
 }

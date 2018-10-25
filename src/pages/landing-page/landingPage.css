@@ -1,5 +1,41 @@
 .landingPageBox{
   display: flex;
   flex-direction: column;
-  margin: 10% 10% 0% 10%;
+  margin: 3% 3% 0% 3%;
+}
+
+p{
+  font-size: 18px;
+}
+
+/* Media queries */
+
+/* Desktop */
+@media (min-width: 900px){
+  p{
+    font-size: 30px;
+  }
+
+  .landingPageBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 10% 0% 10%;
+  }
+  .casePageBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 10% 0% 10%;
+  }
+}
+
+/* tablet */
+@media (min-width: 600px){
+  p{
+    font-size: 24px;
+  }
+  .casePageBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 10% 0% 10%;
+  }
 }
