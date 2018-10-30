@@ -20,7 +20,7 @@ class TheaterAndDance extends React.Component {
           </div>
           <div className = "allCases">
             <div className = "casesContainer">
-            {casesJson.cases.map((item) => {
+            {casesJson.danceCases.map((item) => {
               return (
                 <div className = "case" >
                   <Link to ={`/danceCases/${item.id}`}>

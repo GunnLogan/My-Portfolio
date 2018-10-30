@@ -11,25 +11,3 @@ p{
   font-family: arial;
   font-size: 14px;
 }
-
-
-/* Media queries */
-
-/* Desktop */
-@media (min-width: 722px){
-  p{
-    font-family: arial;
-    font-size: 30px;
-  }
-}
-
-/* tablet */
-@media (min-width:600px) and (max-width: 722px){
-
-}
-
-/* phone */
-@media (max-width:600px){
-
-
-}

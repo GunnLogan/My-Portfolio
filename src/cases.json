@@ -19,7 +19,7 @@
       "toolbox": "...",
       "more": "...",
       "image": "./images/watch.png",
-      "link": "https://gunnlogan.github.io/volumental/"
+      "link": "https://github.com/GunnLogan/assignment-clock/"
     },
     {
       "id": 3,
@@ -69,20 +69,20 @@
 
   "danceCases": [{
     "id": 1,
-    "header": "Volumental",
-    "description": "Landing page for Volumental using HTML and CSS",
-    "seeItLive": "See it live",
+    "header": "District Dental",
+    "description": "Branding, design and illustrations",
+    "seeItLive": "Link to more info",
     "code": "...",
     "toolbox": "...",
     "more": "...",
-    "image": "./images/bauerVolumental.png",
-    "link": "https://gunnlogan.github.io/volumental/"
+    "image": "./images/dental.png",
+    "link": "https://gunnlaugur.myportfolio.com/distrikt-dental/"
   },
   {
     "id": 2,
-    "header": "Watch",
-    "description": "Stop Watch using API's",
-    "seeItLive": "See it live",
+    "header": "Prisma Impact at Norskeen House",
+    "description": "Branding, UI, Design & Illustrations",
+    "seeItLive": "Link to more info",
     "code": "...",
     "toolbox": "...",
     "more": "...",
@@ -91,47 +91,47 @@
   },
   {
     "id": 3,
-    "header": "Radio Player",
-    "description": "Radio player using Sveriges Radio's API's",
-    "seeItLive": "See it live",
+    "header": "Theological University",
+    "description": "Branding, UX and Design",
+    "seeItLive": "Link to more info",
     "code": "React",
     "toolbox": "..",
     "more": "design",
-    "image":  "./images/radioPlayer.png",
-    "link": "https://gunnlogan.github.io/RadioForPortfolio/"
+    "image":  "./images/hogskolan.png",
+    "link": "https://gunnlaugur.myportfolio.com/stockholm-theological-university/"
   },
   {
     "id": 4,
-    "header": "Final Frontier",
-    "description": "News paper using Google news API's in a sprint for Bonnier News",
-    "seeItLive": "See it live",
+    "header": "Degenerator",
+    "description": "Posioned Ballet for the Royal Swedish Ballet",
+    "seeItLive": "Link to more info",
     "code": "...",
     "toolbox": "...",
     "more": "...",
-    "image": "./images/finalfrontier.png",
-    "link": "https://gunnlogan.github.io/volumental/"
+    "image": "./images/degenerator.png",
+    "link": "https://gunnlaugur.myportfolio.com/degenerator/"
   },
   {
     "id": 5,
-    "header": "Career page for Comprend",
-    "description": "Career pages for Comprend",
-    "seeItLive": "See it live",
+    "header": "The Club",
+    "description": "Deviced dance theater in City Theater of Iceland",
+    "seeItLive": "Link to more info",
     "code": "...",
     "toolbox": "...",
     "more": "...",
-    "image": "./images/finalfrontier.png",
-    "link": "https://gunnlogan.github.io/volumental/"
+    "image": "./images/club.png",
+    "link": "https://gunnlaugur.myportfolio.com/concept-graphic-designs/"
   },
   {
     "id": 6,
-    "header": "To do App",
-    "description": "to do app",
-    "seeItLive": "See it live",
+    "header": "Freuds Anatomiska Teater",
+    "description": "Psychotheraputic Ballet and Theater performance",
+    "seeItLive": "Link to more info",
     "code": "...",
     "toolbox": "...",
     "more": "...",
-    "image": "./images/bauerVolumental.png",
-    "link": "https://gunnlogan.github.io/volumental/"
+    "image": "./images/freudsana.png",
+    "link": "https://gunnlaugur.myportfolio.com/freuds-anatomical-theater/"
   }
 ]
 }

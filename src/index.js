@@ -3,6 +3,7 @@ import ReactDOM from "react-dom"
 import App from "./app"
 import LandingPage from "./pages/landing-page/landingPage"
 import Cases from "./pages/cases/cases"
+import DanceCases from "./pages/cases/danceCases"
 import "./index.css"
 import "./stylesheet.css"
 
