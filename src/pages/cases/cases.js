@@ -20,15 +20,15 @@ class Cases extends React.Component {
          <div className="textBox">
 
            <div className="codeText">
-             <h6>Code</h6>
+             <h6>CODE</h6>
              <p>{caseData.code}</p>
            </div>
            <div className="toolboxText">
-             <h6>Toolbox</h6>
+             <h6>TOOLBOX</h6>
              <p>{caseData.toolbox}</p>
            </div>
            <div className="moreText">
-             <h6>more</h6>
+             <h6>MORE</h6>
              <p>{caseData.more}</p>
            </div>
          </div>

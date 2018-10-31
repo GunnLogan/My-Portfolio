@@ -3,39 +3,3 @@
   flex-direction: column;
   margin: 3% 3% 0% 3%;
 }
-
-p{
-  font-size: 18px;
-}
-
-/* Media queries */
-
-/* Desktop */
-@media (min-width: 900px){
-  p{
-    font-size: 40px;
-  }
-
-  .landingPageBox{
-    display: flex;
-    flex-direction: column;
-    margin: 0% 10% 0% 10%;
-  }
-  .casePageBox{
-    display: flex;
-    flex-direction: column;
-    margin: 0% 10% 0% 10%;
-  }
-}
-
-/* tablet */
-@media (min-width: 600px){
-  p{
-    font-size: 28px;
-  }
-  .casePageBox{
-    display: flex;
-    flex-direction: column;
-    margin: 0% 10% 0% 10%;
-  }
-}

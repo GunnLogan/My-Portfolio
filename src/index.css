@@ -1,13 +1,64 @@
-body {
-  font-family:'big_johnregular';
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html{
   margin: 0;
 }
 
-h3, h4{
-  font-weight: lighter;
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Audiowide', cursive;
+  /* font-family: 'big_johnregular'; */
+
+}
+
+h3, h4, h5, h6 {
+  font-size: 15px;
 }
 
 p{
-  font-family: arial;
-  font-size: 14px;
+  font-family: 'Abel', sans-serif;;
+  font-size: 18px;
+}
+
+/* Media queries */
+
+/* Desktop */
+@media (min-width: 900px){
+  p{
+    font-size: 40px;
+  }
+
+  .landingPageBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 10% 0% 10%;
+  }
+  .casePageBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 10% 0% 10%;
+  }
+  h3, h4, h5, h6 {
+    font-size: 30px;
+  }
+}
+
+/* tablet */
+@media (min-width: 600px){
+  p{
+    font-size: 30px;
+  }
+  .casePageBox{
+    display: flex;
+    flex-direction: column;
+    margin: 0% 5% 0% 5%;
+  }
+  h3, h4, h5, h6 {
+    font-size: 20px;
+  }
 }

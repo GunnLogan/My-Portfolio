@@ -6,15 +6,17 @@
   border: 1px solid #dcdcdc;
   display: inline-block;
   cursor: pointer;
-  color: #000000;
-  font-size: 14px;
+  color: white;
   padding: 16px 31px;
   text-decoration: none;
+  font-weight: bold;
   margin: 10px;
+  min-width: 150px;
 }
 
 .Button:hover {
   background-color: #ffffff;
+  color: #000;
 }
 
 .Button:active {

@@ -1,6 +1,7 @@
 .aboutMeContainer {
   display: flex;
   flex-direction: column;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
@@ -12,7 +13,7 @@
 
 .aboutMeText {
   padding: 0% 0% 5% 5%;
-  width: 60%
+  width: 50%
 }
 
 .aboutMeText p {
@@ -20,12 +21,12 @@
 }
 
 .imageContainer {
-  width: 40%;
+  /* width: 45%; */
 }
 
 .imageContainer img {
   width: 100%;
   height: auto;
-  padding-top: 50px;
+  padding-top: 30px;
   max-width: 600px;
 }
