@@ -1,5 +1,10 @@
+*{
+  box-sizing: border-box;
+}
+
+
 .landingPageBox{
   display: flex;
   flex-direction: column;
-  margin: 3% 3% 0% 3%;
+  background-color: #F8F8F5;
 }

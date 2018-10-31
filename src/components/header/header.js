@@ -7,6 +7,7 @@ class Header extends React.Component {
     return (
       <div>
       < div className ="header">
+      <img src = "./images/header.png"/>
       <div className = "name"> <p>Gunnlaugur Egilsson</p></div>
       </div>
       </div>
