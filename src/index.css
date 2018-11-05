@@ -1,23 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide');
 @import url('https://fonts.googleapis.com/css?family=Abel');
 
-html{
-  margin: 0;
-}
-
-
 *{
   box-sizing: border-box;
+  margin: 0;
 }
 
 body {
   font-family: 'Audiowide', cursive;
-  /* font-family: 'big_johnregular'; */
 
 }
 
-h3, h4, h5, h6 {
-  font-size: 15px;
+h1 {
+  font-size: 16px;
+}
+
+h3, h4, h5{
+  font-size: 16px;
+  margin-bottom: 5%;
+  margin-top: 2%;
+}
+
+h6{
+  font-size:14px;
 }
 
 p{
@@ -27,10 +32,31 @@ p{
 
 /* Media queries */
 
-/* Desktop */
-@media (min-width: 900px){
+/* tablet */
+@media only screen and (min-width: 600px){
   p{
-    font-size: 40px;
+    font-size: 24px;
+  }
+
+  .casePageBox{
+    display: flex;
+    flex-direction: column;
+     padding: 0% 5% 0% 5%;
+   }
+
+  h3, h4, h5, {
+    font-size: 26px;
+  }
+
+  h1, h6{
+    font-size: 22px;
+  }
+}
+
+/* Desktop */
+@media only screen and (min-width: 768px) {
+  p{
+    font-size: 36px;
   }
 
   .landingPageBox{
@@ -43,22 +69,20 @@ p{
     flex-direction: column;
     padding: 0% 10% 0% 10%;
   }
-  h3, h4, h5, h6 {
-    font-size: 30px;
-  }
-}
 
-/* tablet */
-@media (min-width: 600px){
-  p{
+  h1{
+    font-size: 24px;
+  }
+
+  h3, h4, h5 {
+    font-size: 36px;
+  }
+
+  h6{
     font-size: 30px;
   }
-  .casePageBox{
-    display: flex;
-    flex-direction: column;
-     padding: 0% 5% 0% 5%;
-  }
-  h3, h4, h5, h6 {
-    font-size: 20px;
+  .buttonBox{
+    margin-top: 100px;
+    margin-bottom: 50px;
   }
 }

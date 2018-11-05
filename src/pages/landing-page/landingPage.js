@@ -6,8 +6,10 @@ import Header from "../../components/header/header"
 import Tech from "../../components/Tech/tech"
 import Skills from "../../components/Skills/skills"
 import TheaterAndDance from "../../components/TheaterAndDance/theaterAndDance"
+import Design from "../../components/Design/design"
 import Studies from "../../components/Studies/studies"
 import Footer from "../../components/footer/footer"
+
 
 class LandingPage extends React.Component {
 
@@ -16,10 +18,10 @@ class LandingPage extends React.Component {
       <div>
         <Header />
         <div className="landingPageBox">
-
           <AboutMe />
           <Tech />
           <Skills />
+          <Design />
           <TheaterAndDance />
           <Studies />
         </div>

@@ -1,8 +1,8 @@
 .aboutMeContainer {
   display: flex;
   flex-direction: column;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .textAndImage {
@@ -12,16 +12,21 @@
 }
 
 .aboutMeText {
-  padding: 0% 0% 5% 5%;
-  width: 50%
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 5%;
+  width: 60%
 }
 
 .aboutMeText p {
   font-style: italic;
 }
 
+
 .imageContainer {
-  /* width: 45%; */
+  width: 45%;
 }
 
 .imageContainer img {

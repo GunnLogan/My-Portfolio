@@ -9,8 +9,8 @@
 }
 
 .techText{
-  font-style: italic;
-  margin-bottom: 30px;
+  margin-top: 25px;
+  margin-bottom: 50px;
 }
 
 .allCases{
@@ -27,7 +27,7 @@
 .case{
   width: 100%;
   height: 30%;
-  margin-bottom: 2%;
+  margin-bottom: 5%;
 }
 
 .case img{

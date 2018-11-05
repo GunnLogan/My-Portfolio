@@ -6,7 +6,7 @@ class Skills extends React.Component {
   render() {
     return (
       <div className="skills">
-        <h3 > SKILLS </h3>
+        <h3>SKILLS</h3>
         <div className="skillsContainer">
           <div className="code">
             <h6>CODE</h6>

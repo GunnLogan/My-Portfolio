@@ -1,15 +1,29 @@
+.studies{
+  margin-top: 25px;
+}
+
 .studiesContainer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
+.studiesBox{
+  margin-top: 25px;
+}
+
+.studiesBox h6{
+  margin-bottom: 25px;
+}
+
 .buttonBox{
   display: flex;
   justify-content: center;
-  margin: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .moreStudies{
-  margin-bottom: 50px;
+  margin-top: 60px;
+  margin-bottom: 60px;
 }

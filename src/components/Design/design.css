@@ -1,0 +1,35 @@
+.designContainer{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.designHeader, h4{
+  font-weight: normal;
+}
+
+.designText{
+  margin-bottom: 30px;
+}
+
+.allCases{
+  display: flex;
+  flex-direction: column;
+}
+
+.casesContainer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.case{
+  width: 30%;
+  height: 30%;
+  margin-bottom: 2%;
+}
+
+.case img{
+  width: 100%;
+
+}

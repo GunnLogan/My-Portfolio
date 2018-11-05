@@ -1,9 +1,19 @@
-.skillsContainer {
+.skills{
+  margin-top: 50px;
+}
+
+.skillsContainer{
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-top: 25px;
+  margin-bottom: 80px;
 }
 
 .Upcoming {
   margin-bottom: 50px;
+}
+
+.skills .skillsContainer{
+  margin-top: 30px;
 }

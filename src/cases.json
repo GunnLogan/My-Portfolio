@@ -69,28 +69,18 @@
 
   "designCases": [{
     "id": 1,
-    "header": "District Dental",
-    "description": "Branding, design and illustrations",
-    "seeItLive": "MORE INFO",
+    "header": "Prisma Impact at Norskeen House",
+    "description": "Branding, UI, Design & Illustrations",
+    "seeItLive": "TO THE SITE",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
-    "image": "./images/dental.png",
-    "link": "https://gunnlaugur.myportfolio.com/distrikt-dental/"
+    "toolbox": "Sketch, Adobe Illustrator, Branding, UI-Design, Illustration",
+    "more": "Facilitation, Sprints",
+    "image": "./images/prisma.png",
+    "image-below": "./images/prisma2.png",
+    "link": "https://prismaimpact.com/"
   },
   {
     "id": 2,
-    "header": "Prisma Impact at Norskeen House",
-    "description": "Branding, UI, Design & Illustrations",
-    "seeItLive": "MORE INFO",
-    "code": "...",
-    "toolbox": "...",
-    "more": "...",
-    "image": "./images/watch.png",
-    "link": "https://gunnlogan.github.io/volumental/"
-  },
-  {
-    "id": 3,
     "header": "Theological University",
     "description": "Branding, UX and Design",
     "seeItLive": "MORE INFO",
@@ -101,15 +91,26 @@
     "link": "https://gunnlaugur.myportfolio.com/stockholm-theological-university/"
   },
   {
+    "id": 3,
+    "header": "THEOLOGICAL UNIVERSITY",
+    "description": "Branding, UX and Design",
+    "seeItLive": "MORE INFO",
+    "code": "React",
+    "toolbox": "..",
+    "more": "design",
+    "image":  "./images/hogskolan.png",
+    "link": "https://gunnlaugur.myportfolio.com/stockholm-theological-university/"
+  },
+  {
     "id": 4,
-    "header": "Degenerator",
-    "description": "Posioned Ballet for the Royal Swedish Ballet",
+    "header": "DISTRICT dental",
+    "description": "Branding, design and illustrations",
     "seeItLive": "MORE INFO",
     "code": "...",
     "toolbox": "...",
     "more": "...",
-    "image": "./images/degenerator.png",
-    "link": "https://gunnlaugur.myportfolio.com/degenerator/"
+    "image": "./images/dental.png",
+    "link": "https://gunnlaugur.myportfolio.com/distrikt-dental/"
   },
   {
     "id": 5,
@@ -137,39 +138,6 @@
 
   "danceCases": [{
     "id": 1,
-    "header": "District Dental",
-    "description": "Branding, design and illustrations",
-    "seeItLive": "MORE INFO",
-    "code": "...",
-    "toolbox": "...",
-    "more": "...",
-    "image": "./images/dental.png",
-    "link": "https://gunnlaugur.myportfolio.com/distrikt-dental/"
-  },
-  {
-    "id": 2,
-    "header": "Prisma Impact at Norskeen House",
-    "description": "Branding, UI, Design & Illustrations",
-    "seeItLive": "MORE INFO",
-    "code": "...",
-    "toolbox": "...",
-    "more": "...",
-    "image": "./images/watch.png",
-    "link": "https://gunnlogan.github.io/volumental/"
-  },
-  {
-    "id": 3,
-    "header": "Theological University",
-    "description": "Branding, UX and Design",
-    "seeItLive": "MORE INFO",
-    "code": "React",
-    "toolbox": "..",
-    "more": "design",
-    "image":  "./images/hogskolan.png",
-    "link": "https://gunnlaugur.myportfolio.com/stockholm-theological-university/"
-  },
-  {
-    "id": 4,
     "header": "Degenerator",
     "description": "Posioned Ballet for the Royal Swedish Ballet",
     "seeItLive": "MORE INFO",
@@ -177,6 +145,39 @@
     "toolbox": "...",
     "more": "...",
     "image": "./images/degenerator.png",
+    "link": "https://gunnlaugur.myportfolio.com/degenerator/"
+  },
+  {
+    "id": 2,
+    "header": "The Club",
+    "description": "Deviced dance theater in City Theater of Iceland",
+    "seeItLive": "MORE INFO",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/club.png",
+    "link": "https://gunnlaugur.myportfolio.com/concept-graphic-designs/"
+  },
+  {
+    "id": 6,
+    "header": "Freuds Anatomiska Teater",
+    "description": "Psychotheraputic Ballet and Theater performance",
+    "seeItLive": "MORE INFO",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/freudsana.png",
+    "link": "https://gunnlaugur.myportfolio.com/freuds-anatomical-theater/"
+  },
+  {
+    "id": 4,
+    "header": "Ossuarium",
+    "description": "Macabre modern dance performance for the Royal Swedish Ballet",
+    "seeItLive": "MORE INFO",
+    "code": "...",
+    "toolbox": "...",
+    "more": "...",
+    "image": "./images/ossuarium.png",
     "link": "https://gunnlaugur.myportfolio.com/degenerator/"
   },
   {
