@@ -1,7 +1,7 @@
 {
   "cases": [{
     "id": 1,
-    "header": "Career page for Comprend",
+    "header": "COMPREND CAREER PAGE",
     "description": "REACT built career pages for Comprend using API's",
     "seeItLive": "GITHUB",
     "code": "React, Javascript, HTML & CSS",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "header": "Watch",
+      "header": "REACT BUILT WATCH",
       "description": "REACT built Stop Watch using API's",
       "seeItLive": "LIVE",
       "code": "React, Javascript, HTML & CSS",
@@ -23,29 +23,29 @@
     },
     {
       "id": 3,
-      "header": "Radio Player",
+      "header": "RADIO PLAYER",
       "description": "REACT built Radio player using Sveriges Radio's API's",
       "seeItLive": "LIVE",
       "code": "React, Javascript, HTML & CSS",
       "toolbox": "..",
-      "more": "design",
+      "more": "Wireframes, Layout design",
       "image":  "./images/radioPlayer.png",
       "link": "https://gunnlogan.github.io/RadioForPortfolio/"
     },
     {
       "id": 4,
-      "header": "Final Frontier",
+      "header": "FINAL FRONTIER",
       "description": "Space News paper using Google news API's in a sprint for Bonnier News",
       "seeItLive": "GITHUB",
       "code": "Javascript, HTML & CSS",
       "toolbox": "Design, concept, UI",
-      "more": "...",
+      "more": "Logo Design",
       "image": "./images/finalfrontier.png",
       "link": "https://gunnlogan.github.io/volumental/"
     },
     {
       "id": 5,
-      "header": "Volumental",
+      "header": "VOLUMENTAL & BAUER",
       "description": "Landing page for Volumental using HTML and CSS",
       "seeItLive": "LIVE",
       "code": "HTML & CSS",
@@ -56,10 +56,10 @@
     },
     {
       "id": 6,
-      "header": "REACT built To-do App",
-      "description": "to do app",
+      "header": "REACT TO-DO APP",
+      "description": "REACT built to-do app",
       "seeItLive": "LIVE",
-      "code": "...",
+      "code": "REACT, CSS3",
       "toolbox": "...",
       "more": "...",
       "image": "./images/bauerVolumental.png",
@@ -69,7 +69,7 @@
 
   "designCases": [{
     "id": 1,
-    "header": "Prisma Impact at Norskeen House",
+    "header": "PRISMA IMPACT",
     "description": "Branding, UI, Design & Illustrations",
     "seeItLive": "TO THE SITE",
     "code": "...",
@@ -81,12 +81,12 @@
   },
   {
     "id": 2,
-    "header": "Theological University",
+    "header": "THEOLOGICAL UNIVERSITY",
     "description": "Branding, UX and Design",
     "seeItLive": "MORE INFO",
-    "code": "React",
-    "toolbox": "..",
-    "more": "design",
+    "code": "..",
+    "toolbox": "Adobe Illustartor, Indesign",
+    "more": "Design, Video Production",
     "image":  "./images/hogskolan.png",
     "link": "https://gunnlaugur.myportfolio.com/stockholm-theological-university/"
   },
@@ -103,7 +103,7 @@
   },
   {
     "id": 4,
-    "header": "DISTRICT dental",
+    "header": "DISTRICT DENTAL",
     "description": "Branding, design and illustrations",
     "seeItLive": "MORE INFO",
     "code": "...",
@@ -114,23 +114,23 @@
   },
   {
     "id": 5,
-    "header": "The Club",
+    "header": "THE CLUB",
     "description": "Deviced dance theater in City Theater of Iceland",
     "seeItLive": "MORE INFO",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
+    "toolbox": "Deviced Theater, Choreography, Direction",
+    "more": "Production, PR",
     "image": "./images/club.png",
     "link": "https://gunnlaugur.myportfolio.com/concept-graphic-designs/"
   },
   {
     "id": 6,
-    "header": "Freuds Anatomiska Teater",
+    "header": "FREUDS ANATOMICAL THEATER",
     "description": "Psychotheraputic Ballet and Theater performance",
     "seeItLive": "MORE INFO",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
+    "toolbox": "Choreography",
+    "more": "Video Production, Art Direction",
     "image": "./images/freudsana.png",
     "link": "https://gunnlaugur.myportfolio.com/freuds-anatomical-theater/"
   }
@@ -138,18 +138,18 @@
 
   "danceCases": [{
     "id": 1,
-    "header": "Degenerator",
+    "header": "DEGENERATOR",
     "description": "Posioned Ballet for the Royal Swedish Ballet",
     "seeItLive": "MORE INFO",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
+    "toolbox": "Choreography, Set design",
+    "more": "Production, Art Direction",
     "image": "./images/degenerator.png",
     "link": "https://gunnlaugur.myportfolio.com/degenerator/"
   },
   {
     "id": 2,
-    "header": "The Club",
+    "header": "THE CLUB",
     "description": "Deviced dance theater in City Theater of Iceland",
     "seeItLive": "MORE INFO",
     "code": "...",
@@ -159,30 +159,30 @@
     "link": "https://gunnlaugur.myportfolio.com/concept-graphic-designs/"
   },
   {
-    "id": 6,
-    "header": "Freuds Anatomiska Teater",
+    "id": 3,
+    "header": "FREUDS ANATOMICAL THEATER",
     "description": "Psychotheraputic Ballet and Theater performance",
     "seeItLive": "MORE INFO",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
+    "toolbox": "Choreography",
+    "more": "Video Production, Art Direction",
     "image": "./images/freudsana.png",
     "link": "https://gunnlaugur.myportfolio.com/freuds-anatomical-theater/"
   },
   {
     "id": 4,
-    "header": "Ossuarium",
+    "header": "OSSUARIUM",
     "description": "Macabre modern dance performance for the Royal Swedish Ballet",
     "seeItLive": "MORE INFO",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
+    "toolbox": "Choreography, Set design",
+    "more": "Art direction, PR",
     "image": "./images/ossuarium.png",
     "link": "https://gunnlaugur.myportfolio.com/degenerator/"
   },
   {
     "id": 5,
-    "header": "The Club",
+    "header": "BIG LETTERS",
     "description": "Deviced dance theater in City Theater of Iceland",
     "seeItLive": "MORE INFO",
     "code": "...",
@@ -193,14 +193,14 @@
   },
   {
     "id": 6,
-    "header": "Freuds Anatomiska Teater",
-    "description": "Psychotheraputic Ballet and Theater performance",
+    "header": "HOC EST CORPUS",
+    "description": "Mind bending Magical one-man show",
     "seeItLive": "MORE INFO",
     "code": "...",
-    "toolbox": "...",
-    "more": "...",
-    "image": "./images/freudsana.png",
-    "link": "https://gunnlaugur.myportfolio.com/freuds-anatomical-theater/"
+    "toolbox": "Choreography, Dramaturgi",
+    "more": "Art Direction",
+    "image": "./images/hocestcorpus.png",
+    "link": "https://gunnlaugur.myportfolio.com/hoc-est-corpus"
   }
 ]
 }
