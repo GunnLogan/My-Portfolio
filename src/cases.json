@@ -92,14 +92,14 @@
   },
   {
     "id": 3,
-    "header": "THEOLOGICAL UNIVERSITY",
-    "description": "Branding, UX and Design",
-    "seeItLive": "MORE INFO",
+    "header": "DESIGN AND ILLUSTRATION",
+    "description": "Illustration and design for a webpage",
+    "seeItLive": "SEE IT LIVE",
     "code": "React",
-    "toolbox": "..",
-    "more": "design",
-    "image":  "./images/hogskolan.png",
-    "link": "https://gunnlaugur.myportfolio.com/stockholm-theological-university/"
+    "toolbox": "Adobe Draw, Adobe Illustrator",
+    "more": "..",
+    "image":  "./images/gunnur.png",
+    "link": "https://www.gunnurux.com"
   },
   {
     "id": 4,
