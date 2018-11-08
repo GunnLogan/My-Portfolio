@@ -6,6 +6,7 @@
 
 .imageBox{
   width: 100%;
+  margin-top: 50px;
 }
 
 .imageBox img{
@@ -15,13 +16,16 @@
 .textBox{
   display: flex;
   justify-content: space-between;
+  margin-top: 50px;
 }
 
 .caseButton{
   margin:auto;
+  margin-top: 50px;
 }
 
 .caseButton, a{
   width: 90px;
   margin:auto;
+  margin-top: 50px;
 }
